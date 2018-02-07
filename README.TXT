@@ -1,12 +1,3 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+This is the result (the fifth step) of a whole month of work for my last assignment in this java course. I learnt a lot and although the interface is not the most stylish one, as the assignment did not require high css skills but a solid coding for the program, it works perfectly as required, it was tested and rated and gave me the final Certificate for my 5 month course in Java. You can try it here:
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+http://www.dukelearntoprogram.com/capstone/recommender.php?id=MZgRWAHqz6NuLV
